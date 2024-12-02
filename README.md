@@ -9,7 +9,7 @@ Features:
 2. Exploratory Data Analysis (EDA): Visualizations and statistical summaries to uncover patterns and correlations.
 3. Modeling: Implementation of Random Forest, hyperparameter tuning using RandomizedSearchCV, and comparison with alternative models like Gradient Boosting.
 4. Class Imbalance Solutions: Techniques such as SMOTE and class weighting to handle imbalanced datasets.
-5. Model Validation: Metrics evaluation (accuracy, precision, recall, F1-score, ROC-AUC) on test data.
+5. Model Validation: Metrics evaluation on test data.
 6. Deployment: Model conversion to ONNX format for efficient runtime inference.
 
 CSP 571 – Data Preparation and Analysis
