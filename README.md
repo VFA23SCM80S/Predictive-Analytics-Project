@@ -1,7 +1,7 @@
                                             Predictive Analytics Project
 
 Overview
-This project implements a comprehensive machine learning pipeline to address problem using Random Forest and advanced techniques like hyperparameter tuning, feature engineering, and class imbalance handling. The project aims to achieve accurate and generalizable predictions while exploring the relationships between features and target outcomes.
+This project implements a comprehensive machine learning pipeline using Random Forest and advanced techniques like hyperparameter tuning, feature engineering, and class imbalance handling. The project aims to achieve accurate and generalizable predictions while exploring the relationships between features and target outcomes.
 
 Features:
 
