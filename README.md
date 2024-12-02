@@ -11,3 +11,13 @@ Features:
 4. Class Imbalance Solutions: Techniques such as SMOTE and class weighting to handle imbalanced datasets.
 5. Model Validation: Metrics evaluation (accuracy, precision, recall, F1-score, ROC-AUC) on test data.
 6. Deployment: Model conversion to ONNX format for efficient runtime inference.
+
+CSP 571 – Data Preparation and Analysis
+Final Project Report
+
+                                               Submitted by:
+                                               Chethan Harianth A20526469
+                                               Dimple Kanakam Sai  A20516770
+                                               Sahana Mahendra A20529525
+                                               Varun Anavatti  A20526745
+                                               Vikash Singh A20525680
